@@ -1,0 +1,11 @@
+A:\My Projects\C#\modeling Project\modeling Project\bin\Debug\modeling Project.exe.config
+A:\My Projects\C#\modeling Project\modeling Project\bin\Debug\modeling Project.exe
+A:\My Projects\C#\modeling Project\modeling Project\bin\Debug\modeling Project.pdb
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.csproj.AssemblyReference.cache
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.csproj.SuggestedBindingRedirects.cache
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling_Project.Form1.resources
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling_Project.Properties.Resources.resources
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.csproj.GenerateResource.cache
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.csproj.CoreCompileInputs.cache
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.exe
+A:\My Projects\C#\modeling Project\modeling Project\obj\Debug\modeling Project.pdb

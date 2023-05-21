@@ -58,7 +58,7 @@
     <Compile Include="2_Multiple recursive generator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TR.cs" />
+    <Compile Include="Collected_Model_Project _for_Uplaod.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

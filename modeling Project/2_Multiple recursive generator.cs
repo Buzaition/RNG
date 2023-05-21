@@ -11,7 +11,7 @@ namespace modeling_Project
         private double[] seeds;
         private double[] a; //multiplier
         private double m;           //moduls
-        private int numOfRN;
+        private int loop;
         double[] RNG;
         int count;
 
@@ -22,10 +22,10 @@ namespace modeling_Project
         public MRG(double[] seed, double[] multiplier, int modulas, int itr, int c)
         {
             m = modulas;
-            numOfRN = itr;
+            loop = itr;
             count = c;
-            RNG = new double[numOfRN];
-            seeds = new double[numOfRN];
+            RNG = new double[loop];
+            seeds = new double[loop];
             a= new double[count];
             for (int i = 0; i < c; i++)
             {
@@ -37,7 +37,7 @@ namespace modeling_Project
         public double[] RandomNumber()
         {
 
-            for (int j = 0; j < numOfRN; j++)
+            for (int j = 0; j < loop; j++)
             {
                 RNG[j] = (seeds[j] / m);
             }
@@ -50,7 +50,7 @@ namespace modeling_Project
         {
           
             {
-                for (int idx = count; idx < numOfRN; idx++)
+                for (int idx = count; idx < loop; idx++)
                 {
                     for (int j = 0,k=1; j < count; j++,k++)
                     {

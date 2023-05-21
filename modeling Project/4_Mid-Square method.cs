@@ -10,8 +10,8 @@ namespace modeling_Project
     {
         private int seed;
         private int loop;
-        double[] RNG;
-        int[] S_array;
+        private double[] RNG;
+        private int[] S_array;
         public MSM()
         {
             seed = 1234;
